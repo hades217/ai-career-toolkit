@@ -1,0 +1,26 @@
+{
+  "executed_on": "2026-10-19",
+  "scope": "Two local artifact demonstrations; not CI, model execution, career-history verification or a benchmark.",
+  "results": [
+    {
+      "query": "reset my password",
+      "observed_output": {
+        "status": "matched",
+        "document_id": "faq-access",
+        "title": "Account access and password reset",
+        "answer": "For this fictional demo, open Account Settings and select Reset Password. Never send a password to a support agent.",
+        "overlap_count": 2,
+        "note": "Exact source text retrieved by lexical overlap; not an LLM answer or a confidence score."
+      }
+    },
+    {
+      "query": "orbital mechanics",
+      "observed_output": {
+        "status": "no_match",
+        "document_id": null,
+        "answer": null,
+        "note": "No sufficiently overlapping FAQ. Ask for clarification; do not invent an answer."
+      }
+    }
+  ]
+}

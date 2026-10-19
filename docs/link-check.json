@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-10-19",
+  "method": "Read-only public entry-page checks; no authentication, payment, model execution or job submission",
+  "results": [
+    {
+      "url": "https://careerservices.fas.harvard.edu/ai-resumes-and-cover-letters/",
+      "http_status": null,
+      "note": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "url": "https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/",
+      "http_status": null,
+      "note": "[Errno 54] Connection reset by peer"
+    },
+    {
+      "url": "https://jobpin.ai/",
+      "http_status": null,
+      "note": "The read operation timed out"
+    },
+    {
+      "url": "https://jracademy.ai/",
+      "http_status": null,
+      "note": "The read operation timed out"
+    },
+    {
+      "url": "https://jracademy.ai/career-coaching",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/career-coaching",
+      "title": "职业辅导 | 匠人学院 — 个性化职业发展支持"
+    },
+    {
+      "url": "https://jracademy.ai/job-interview",
+      "http_status": null,
+      "note": "The read operation timed out"
+    },
+    {
+      "url": "https://jracademy.ai/readiness-assessment",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/readiness-assessment",
+      "title": "AI Engineer 面试准备度自测"
+    },
+    {
+      "url": "https://jracademy.ai/tools/job-hunter",
+      "http_status": 200,
+      "final_url": "https://jracademy.ai/tools/job-hunter",
+      "title": "求职匠 Desktop — macOS 与 Windows 官方下载 | 匠人学院"
+    }
+  ]
+}

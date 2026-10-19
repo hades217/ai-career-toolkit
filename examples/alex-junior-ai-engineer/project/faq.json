@@ -1,0 +1,6 @@
+[
+  {"id":"faq-access","title":"Account access and password reset","text":"For this fictional demo, open Account Settings and select Reset Password. Never send a password to a support agent."},
+  {"id":"faq-upload","title":"Supported document upload formats","text":"This fictional FAQ describes PDF and DOCX uploads. Check that a file is readable before importing it. This demo does not implement uploads."},
+  {"id":"faq-privacy","title":"Privacy and sensitive customer data","text":"Use synthetic data in demonstrations. Do not upload customer records, passwords or confidential employer documents to a public project."},
+  {"id":"faq-export","title":"Resume export and editable copies","text":"Keep an editable resume and a separate application copy. This retrieval demo does not generate or export PDFs."}
+]
